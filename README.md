@@ -1,3 +1,3 @@
 # React Props Checkpoint
 
-https://github.com/DBusuru/React_Props_Checkpoint.git
+https://github.com/Fauzia-001/Props_checkpoint.git
